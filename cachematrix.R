@@ -1,4 +1,6 @@
 ## Two functions to cache and return the inverse of an invertible matrix
+#Note: this code has been adapted from example code by rdpeng:
+#https://github.com/rdpeng/ProgrammingAssignment2/blob/master/README.md
 
 ##Creates a cached matrix (and list) for use with the second function
 makeCacheMatrix <- function(x = matrix()) {
